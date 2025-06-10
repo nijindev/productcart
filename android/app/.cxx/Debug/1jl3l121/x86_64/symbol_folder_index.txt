@@ -1,0 +1,1 @@
+/Users/nijindev/Documents/flutter/craft_kart/build/app/intermediates/cxx/Debug/1jl3l121/obj/x86_64

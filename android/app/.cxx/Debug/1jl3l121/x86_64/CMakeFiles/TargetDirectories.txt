@@ -1,0 +1,2 @@
+/Users/nijindev/Documents/flutter/craft_kart/android/app/.cxx/Debug/1jl3l121/x86_64/CMakeFiles/edit_cache.dir
+/Users/nijindev/Documents/flutter/craft_kart/android/app/.cxx/Debug/1jl3l121/x86_64/CMakeFiles/rebuild_cache.dir

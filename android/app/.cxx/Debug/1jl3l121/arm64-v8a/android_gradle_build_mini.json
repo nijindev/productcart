@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/nijindev/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/nijindev/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/nijindev/Documents/flutter/craft_kart/android/app/.cxx/Debug/1jl3l121/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/nijindev/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/nijindev/Documents/flutter/craft_kart/android/app/.cxx/Debug/1jl3l121/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
